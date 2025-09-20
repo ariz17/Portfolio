@@ -16,8 +16,7 @@ const techStack = {
     ],
     'dev-tools': [
         { name: 'GITHUB', image: 'TS Logo/GITHUB.png' },
-        { name: 'DOCKER', image: 'TS Logo/DOCKER.png' },
-        { name: 'N8N', image: 'TS Logo/N8N.png' }
+        { name: 'DOCKER', image: 'TS Logo/DOCKER.png' }
     ]
 };
 
